@@ -1,4 +1,4 @@
-# webable-shipment
+shipment
 
 ## Project setup
 ```
