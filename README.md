@@ -15,15 +15,5 @@ shipment
 5. open the fake json api by running " json-server --watch db.json ".
 6. go to " localhost:8080 " on your browser.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
