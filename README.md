@@ -1,2 +1,24 @@
-# shipping-list-detail
-This is shipping details service developed with vue.js! Shows the list view of all the shipping and details of then on click.
+# webable-shipment
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
